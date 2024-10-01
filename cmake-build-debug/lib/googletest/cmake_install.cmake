@@ -1,4 +1,4 @@
-# Install script for directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR5/PR5_3/lib/googletest
+# Install script for directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR5/PR5_4/lib/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/yura_kulakovskyi/Documents/C++/AP/PR5/PR5_3/cmake-build-debug/lib/googletest/googlemock/cmake_install.cmake")
+  include("/Users/yura_kulakovskyi/Documents/C++/AP/PR5/PR5_4/cmake-build-debug/lib/googletest/googlemock/cmake_install.cmake")
 
 endif()
 
